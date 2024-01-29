@@ -2,7 +2,8 @@ Part 1 :
 You have the following requirements:
 -Write test cases for it and then separate the test cases to smoke and
 regression .
-Req.# Req. Description
+
+Req. Description
 R_0 User Can Create A New List
 R_1 User Can Update List Name ( update the name of the default
 lists (3 Lists) that appear on the board “TO DO” , … ) , don’t
