@@ -11,12 +11,14 @@ R_2 User Can Delete Existing Card
 R_3 User Can Create New Template “Card Template”
 R_4 User Can Update Name Of Template
 R-5 User Can Move Template To Any List
-R-6 User Can Hide Template From List
+R-6 User Can Hide Template From List 
+
 Part 2:
 For the first Test Case you will implement for (R_0) in the first part do
 the following :
 - Add a Screenshot folder with any name you want .
 - Take a screenshot for the full page of the board after you open it .
+- 
 Part 3: 
 Using Postman to do the following :
 1-Make a request on Postman for Create Checklist in Card .
